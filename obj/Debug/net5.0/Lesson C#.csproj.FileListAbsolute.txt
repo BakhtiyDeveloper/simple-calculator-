@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Lesson C#\bin\Debug\net5.0\Lesson C#.exe
+C:\Users\User\Desktop\Lesson C#\bin\Debug\net5.0\Lesson C#.deps.json
+C:\Users\User\Desktop\Lesson C#\bin\Debug\net5.0\Lesson C#.runtimeconfig.json
+C:\Users\User\Desktop\Lesson C#\bin\Debug\net5.0\Lesson C#.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lesson C#\bin\Debug\net5.0\Lesson C#.dll
+C:\Users\User\Desktop\Lesson C#\bin\Debug\net5.0\ref\Lesson C#.dll
+C:\Users\User\Desktop\Lesson C#\bin\Debug\net5.0\Lesson C#.pdb
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.dll
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\ref\Lesson C#.dll
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.pdb
+C:\Users\User\Desktop\Lesson C#\obj\Debug\net5.0\Lesson C#.genruntimeconfig.cache
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\bin\Debug\net5.0\Lesson C#.exe
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\bin\Debug\net5.0\Lesson C#.deps.json
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\bin\Debug\net5.0\Lesson C#.runtimeconfig.json
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\bin\Debug\net5.0\Lesson C#.runtimeconfig.dev.json
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\bin\Debug\net5.0\Lesson C#.dll
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\bin\Debug\net5.0\ref\Lesson C#.dll
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\bin\Debug\net5.0\Lesson C#.pdb
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.AssemblyInfo.cs
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.dll
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\ref\Lesson C#.dll
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.pdb
+C:\Users\User\Desktop\BootstrapLessons\Homework\Lesson 5  C#\obj\Debug\net5.0\Lesson C#.genruntimeconfig.cache
